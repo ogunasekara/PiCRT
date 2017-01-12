@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PiCRT</string>
+    <string name="response_rec">Response received!</string>
+</resources>
