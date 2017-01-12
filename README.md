@@ -5,7 +5,7 @@ An extension of https://github.com/lanceseidman/PiCAST
 Use your android phone to cast youtube videos/twitch streams to a raspberry pi.
 
 Install PiCAST on the Raspberry Pi, replace the picast.js file with the one provided, and run picast_start.sh.
-Install the app, and from youtube or twitch, share to PiCRT app. 
+Modify the app to reflect the ip of the Pi, install, and from youtube or twitch, share to PiCRT app. 
 
 Requirements:
 VLC player
